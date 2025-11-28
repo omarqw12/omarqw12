@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm omar mahmoud</h1>
 <h3 align="center">Software Development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omarqw12&label=Profile%20views&color=0e75b6&style=flat" alt="omarqw12" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omarqw12" alt="omarqw12" /></a> </p>
 
 - 📫 How to reach me **omar2030.1444@gmail.com**
